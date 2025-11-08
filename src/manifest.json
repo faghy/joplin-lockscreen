@@ -7,7 +7,7 @@
   "description": "Lock Joplin at startup by requiring a password",
   "author": "dueclic",
   "homepage_url": "https://dueclic.com",
-  "repository_url": "",
+  "repository_url": "https://github.com/faghy/joplin-lockscreen",
   "keywords": ["lock", "security", "password"],
   "categories": ["security"],
   "license": "MIT"
